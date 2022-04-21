@@ -1,10 +1,10 @@
 <p align="center"> 
-  <img src="images/Logo.png" alt="Logo" width="80px" height="80px">
+  <img src="images/Logo.png" alt="Logo" width="68px" height="90px">
 </p>
 <h1 align="left"> CDTL: Compatible-domain Transfer Learning for Breast Cancer Classification with Limited Annotated Data </h1>
 
 <p align="center"> 
-  <img src="images/histopathology.gif" alt="Animated gif" height="282px" width="637">
+  <img src="images/histopathology.gif" alt="Animated gif">
 </p>
 
 <!-- TABLE OF CONTENTS -->
