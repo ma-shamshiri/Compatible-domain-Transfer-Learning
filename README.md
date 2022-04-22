@@ -4,7 +4,7 @@
 <h1 align="left"> CDTL: Compatible-domain Transfer Learning for Breast Cancer Classification with Limited Annotated Data </h1>
 
 <p align="center"> 
-  <img src="images/histopathology.gif" alt="Animated gif">
+  <img src="images/histopathology.gif" alt="Animated gif" width="60%" height="60%">
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -27,43 +27,81 @@
 <h2 id="overview"> :cloud: Overview</h2>
 
 <p align="justify"> 
-  The text goes here ...
+The aim of this study is to design a transfer learning framework to classify breast cancer cytological images into two categories: benign and malignant. Taking into account the ineffectiveness of employing natural images in TL to solve biomedical-domain problems, we propose the idea of Compatible-domain Transfer Learning (CDTL). This means that instead of using natural images (i.e. ImageNet) that are not essentially compatible with medical data, the pre-training phase of the model is performed employing histopathological images. We then fine-tune pre-trained models on the target data set containing limited cytological images).
 </p>
 
-<!-- PROJECT FILES DESCRIPTION -->
-<h2 id="project-files-description"> :floppy_disk: Project Files Description</h2>
+<p align="center"> 
+  <img src="images/finetuning.png" alt="finetuning" width="60%" height="60%">
+</p>
 
-<ul>
-  <li><b>search.py</b> - Where all of the search algorithms reside.</li>
-  <li><b>searchAgents.py</b> - Where all of the search-based agents reside.</li>
-  <li><b>pacman.py</b> - The main file that runs Pacman games. This file also describes a Pacman GameState types.</li>
-  <li><b>game.py</b> - The logic behind how the Pacman world works.</li>
-  <li><b>util.py</b> - Useful data structures for implementing search algorithms.</li>
-</ul>
+<!-- FOLDER STRUCTURE -->
+<h2 id="folder-structure"> :cactus: Folder Structure</h2>
 
-<h3>Some other supporting files</h3>
-<ul>
-  <li><b>graphicsDisplay.py</b> - Graphics for Pacman.</li>
-  <li><b>graphicsUtils.py</b> - Support for Pacman graphics.</li>
-  <li><b>textDisplay.py</b> - ASCII graphics for Pacman.</li>
-  <li><b>ghostAgents.py</b> - Agents to control ghosts.</li>
-  <li><b>keyboardAgents.py</b> - Keyboard interfaces to control Pacman.</li>
-  <li><b>layout.py</b> - Code for reading layout files and storing their contents.</li>
-  <li><b>autograder.py</b> - Project autograder.</li>
-  <li><b>testParser.py</b> - Parses autograder test and solution files.</li>
-  <li><b>testClasses.py</b> - General autograding test classes.</li>
-  <li><b>test_cases/</b> - Directory containing the test cases for each scenario.</li>
-  <li><b>searchTestClasses.py</b> - Project specific autograding test classes.</li>
-</ul>
+    data
+    .
+    │
+    ├── dataset50%
+        ├── 64px
+        │   │
+        │   ├── train
+        │   │   ├── benign
+        │   │   ├── malignant
+        │   │   
+        │   ├── validation
+        │   │   ├── benign
+        │   │   ├── malignant
+        │   │
+        │   ├── test
+        │       ├── benign
+        │       ├── malignant
+        │
+        ├── 128px
+        │   │
+        │   ├── train
+        │   │   ├── benign
+        │   │   ├── malignant
+        │   │   
+        │   ├── validation
+        │   │   ├── benign
+        │   │   ├── malignant
+        │   │
+        │   ├── test
+        │       ├── benign
+        │       ├── malignant
+        │
+        ├── 256px
+            │
+            ├── train
+            │   ├── benign
+            │   ├── malignant
+            │   
+            ├── validation
+            │   ├── benign
+            │   ├── malignant
+            │
+            ├── test
+                ├── benign
+                ├── malignant
 
+<p>  :house: <a href="#table-of-contents">  Back to Table of Contents</a> </p>
 
-<!-- CREDITS -->
-<h2 id="Prerequisites"> :scroll: Prerequisites</h2>
-
-<!-- CREDITS -->
+<!-- DATASET -->
 <h2 id="Dataset"> :scroll: Dataset</h2>
 
-<!-- CREDITS -->
+<p align="justify">
+The target data set investigated in this research are digital cytology images of breast cancer, which is an archival collection of samples taken from patients at the Regional Hospital in Zielona Gora, Poland. The data set consists of 550 microscopic images of cytological specimens taken from 50 patients using FNB without aspiration (under ultrasonography support) with 0.5-millimeter needles. To form a data set, cytological material extracted from the patient is digitized into virtual slides using the Olympus VS120 Virtual Microscopic System. A virtual slide is a massive digital image with an average size of 200,000 x 100,000 pixels. Since not all parts of a slide necessarily contain useful medical information for analysis, a cytologist manually selected 11 distinct regions of interest (ROI) which were converted to 8 bit/channel RGB TIFF files of size 1583 x 828 pixels.
+</p> 
+
+<p>  :house: <a href="#table-of-contents">  Back to Table of Contents</a> </p>
+
+<!-- LICENSE -->
 <h2 id="License"> :scroll: License</h2>
+© CENPARMI Lab - This code is made available under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GPLv3</a> License and is available for non-commercial academic purposes.
 
+<p>  :house: <a href="#table-of-contents">  Back to Table of Contents</a> </p>
 
+<!-- REFERENCES -->
+<h2 id="License"> :scroll: License</h2>
+(BibTex ...)
+
+<p>  :house: <a href="#table-of-contents">  Back to Table of Contents</a> </p>
