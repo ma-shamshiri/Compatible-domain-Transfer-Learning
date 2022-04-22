@@ -100,7 +100,7 @@ The target data set investigated in this research are digital cytology images of
 
 <!-- LICENSE -->
 <h2 id="License"> License</h2>
-© CENPARMI Lab - This code is made available under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GPLv3</a> License and is available for non-commercial academic purposes.
+© <a href="https://www.concordia.ca/research/cenparmi.html" target="_blank">CENPARMI</a> Lab - This code is made available under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GPLv3</a> License and is available for non-commercial academic purposes.
 
 <p>  :house: <a href="#table-of-contents">  Back to Table of Contents</a> </p>
 
