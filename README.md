@@ -3,9 +3,9 @@
 </p>
 <h1 align="left"> CDTL: Compatible-domain Transfer Learning for Breast Cancer Classification with Limited Annotated Data </h1>
 
-<p align="center"> 
-  <img src="images/histopathology.gif" alt="Animated gif" width="40%" height="40%">
-</p>
+<!-- <p align="center">  -->
+<!-- <img src="images/histopathology.gif" alt="Animated gif" width="40%" height="40%"> -->
+<!-- </p> -->
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> Table of Contents</h2>
