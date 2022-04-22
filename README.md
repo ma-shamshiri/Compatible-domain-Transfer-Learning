@@ -14,7 +14,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#overview"> ➤ Overview</a></li>
-    <li><a href="#project-files-description"> ➤ Project Files Description</a></li>
+    <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
     <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
     <li><a href="#dataset"> ➤ Dataset </a></li>
     <li><a href="#license"> ➤ License </a></li>
@@ -91,6 +91,10 @@ The aim of this study is to design a transfer learning framework to classify bre
 <p align="justify">
 The target data set investigated in this research are digital cytology images of breast cancer, which is an archival collection of samples taken from patients at the Regional Hospital in Zielona Gora, Poland. The data set consists of 550 microscopic images of cytological specimens taken from 50 patients using FNB without aspiration (under ultrasonography support) with 0.5-millimeter needles. To form a data set, cytological material extracted from the patient is digitized into virtual slides using the Olympus VS120 Virtual Microscopic System. A virtual slide is a massive digital image with an average size of 200,000 x 100,000 pixels. Since not all parts of a slide necessarily contain useful medical information for analysis, a cytologist manually selected 11 distinct regions of interest (ROI) which were converted to 8 bit/channel RGB TIFF files of size 1583 x 828 pixels.
 </p> 
+
+<p align="center"> 
+  <img src="images/BreakHis.png" alt="BreakHis">
+</p>
 
 <p>  :house: <a href="#table-of-contents">  Back to Table of Contents</a> </p>
 
