@@ -9,7 +9,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> Table of Contents</h2>
-<img src="images/Logo.png" alt="Logo" align="right" width="18%" height="18%">
+<img src="images/Logo.png" alt="Logo" align="right" width="20%" height="20%">
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
