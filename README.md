@@ -9,7 +9,8 @@
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> Table of Contents</h2>
-<img src="images/Logo.png" alt="Logo" align="right" width="18%" height="18%">
+<img src="images/Logo2.png" alt="Logo" align="right" width="43%" height="18%">
+<!-- <img src="images/histopathology.gif" align="left" width="300px" height="230px"> -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -99,13 +100,13 @@ The target data set investigated in this research are digital cytology images of
 <p>  :house: <a href="#table-of-contents">  Back to Table of Contents</a> </p>
 
 <!-- LICENSE -->
-<h2 id="License"> License</h2>
+<h2 id="license"> License</h2>
 © <a href="https://www.concordia.ca/research/cenparmi.html" target="_blank">CENPARMI</a> Lab - This code is made available under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GPLv3</a> License and is available for non-commercial academic purposes.
 
 <p>  :house: <a href="#table-of-contents">  Back to Table of Contents</a> </p>
 
 <!-- REFERENCES -->
-<h2 id="License"> License</h2>
+<h2 id="reference"> License</h2>
 (BibTex ...)
 
 <p>  :house: <a href="#table-of-contents">  Back to Table of Contents</a> </p>
