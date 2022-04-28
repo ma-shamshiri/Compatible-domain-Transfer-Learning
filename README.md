@@ -12,12 +12,12 @@
 
 <details open="open">
   <summary>Table of Contents</summary>
+  <img src="images/Logo.png" alt="Logo" align="right">
   <ol>
     <li><a href="#overview"> ➤ Overview</a></li>
     <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
     <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
     <li><a href="#dataset"> ➤ Dataset </a></li>
-<img src="images/Logo.png" alt="Logo" width="68px" height="90px" align="right">
     <li><a href="#license"> ➤ License </a></li>
     <li><a href="#reference"> ➤ Reference </a></li>
   </ol>
