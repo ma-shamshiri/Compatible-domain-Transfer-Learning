@@ -1,6 +1,6 @@
-<p align="center"> 
-  <img src="images/Logo.png" alt="Logo" width="68px" height="90px">
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="images/Logo.png" alt="Logo" width="68px" height="90px"> -->
+<!-- </p> -->
 <h1 align="left"> CDTL: Compatible-domain Transfer Learning for Breast Cancer Classification with Limited Annotated Data </h1>
 
 <!-- <p align="center">  -->
@@ -9,10 +9,9 @@
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> Table of Contents</h2>
-
+<img src="images/Logo.png" alt="Logo" align="right" width="18%" height="18%">
 <details open="open">
   <summary>Table of Contents</summary>
-  <img src="images/Logo.png" alt="Logo" align="right">
   <ol>
     <li><a href="#overview"> ➤ Overview</a></li>
     <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
