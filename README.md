@@ -86,6 +86,60 @@ The aim of this study is to design a transfer learning framework to classify bre
 
 <p>  :house: <a href="#table-of-contents">  Back to Table of Contents</a> </p>
 
+
+<!-- PREREQUISITES -->
+<h2 id="prerequisites">Prerequisites</h2>
+
+<p align="center">
+  <a href="https://www.linux.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60px"/>
+  </a>
+  <a href="https://ubuntu.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="60px"/>
+  </a>
+  <a href="https://www.microsoft.com/en-ca/software-download/windows10">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60px"/>
+  </a>
+  <a href="https://www.tensorflow.org/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60px"/>
+  </a>
+  <a href="https://www.anaconda.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="60px"/>
+  </a>
+  <a href="https://www.python.org">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70px"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" width="70px"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70px"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="70px"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="70px"/>
+  </a>
+<P/>
+
+ 1. Open a `Command Prompt` (NOT `Windows PowerShell`) or a `Terminal`
+ 2. Create a conda environment `conda create -n is python=3.6.6 -y`
+ 3. Activate this environment `activate is` (Windows) or `source activate is` (Linux/macOS)
+ 4. Install the following packages `tensorflow`, `keras`, `opencv`, `matplotlib`, `numpy`, `pandas`, `scikit-learn`, and `notebook`:       </br></br>
+      * <a href="https://www.python.org/" target="_blank">Python (3.6)</a>
+      * <a href="https://www.tensorflow.org/" target="_blank">TensorFlow (2.3.2)</a> - `pip install tensorflow==2.3.2`
+      * <a href="https://keras.io/" target="_blank">Keras (2.1.6)</a> - `pip install keras==2.1.6`
+      * <a href="https://opencv.org/" target="_blank">OpenCV (4.4.0)</a> - `pip install opencv==4.0.0`
+      * <a href="https://matplotlib.org/" target="_blank">Matplotlib (3.5.1)</a> - `pip install matplotlib==3.5.1`
+      * <a href="https://numpy.org/" target="_blank">NumPy (1.18.4)</a> - `pip install numpy==1.18.4`
+      * <a href="https://pandas.pydata.org/" target="_blank">Pandas (1.1.3)</a> - `pip install pandas==1.1.3` 
+      * <a href="https://scikit-learn.org/stable/" target="_blank">Sklearn (0.23.2)</a> - `pip install scikit-learn==0.23.2`
+      * <a href="https://jupyter.org/" target="_blank">Jupyter (4.7.1)</a> - `pip install notebook`
+</br>
+<p>  :house: <a href="#table-of-contents">  Back to Table of Contents</a> </p>
+
+
 <!-- DATASET -->
 <h2 id="Dataset"> Dataset</h2>
 
