@@ -22,7 +22,7 @@
     <li><a href="#reference"> ➤ Reference </a></li>
   </ol>
 </details>
-
+<p>The content of this repository will be updated soon. </br> This will include code and pre-trained models. </br>If you want to get more information, feel free to contact us (<a href="mailto:webmaster@example.com">ma.shamshiri@gmail.com</a>).</p>
 
 <!-- OVERVIEW -->
 <h2 id="overview"> Overview</h2>
