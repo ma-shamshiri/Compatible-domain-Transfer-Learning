@@ -177,7 +177,7 @@ VGG-16 is a CNN architecture proposed by Simonyan, et al. (2014), which was used
 </p>
 
 <p align="center"> 
-  <img src="images/VGG-16.png" alt="VGG-16">
+  <img src="images/VGG-16.png" alt="VGG-16 height="55%" width="55%">
 </p>
 
 <!-- VGG-19 -->
@@ -190,7 +190,7 @@ The VGG-19 network is used as one of the deep networks for the pre-training stag
 </p> 
 
 <p align="center"> 
-  <img src="images/VGG-19.png" alt="VGG-19">
+  <img src="images/VGG-19.png" alt="VGG-19 height="55%" width="55%">
 </p>
 
 <!-- ResNet101-V2 -->
@@ -201,7 +201,7 @@ The Residual Network (known as ResNet) is a special type of neural network devel
 </p> 
 
 <p align="center"> 
-  <img src="images/ResNet101-V2.png" alt="ResNet101-V2">
+  <img src="images/ResNet101-V2.png" alt="ResNet101-V2 height="50%" width="50%">
 </p>
 
 <!-- DenseNet-169 -->
@@ -223,7 +223,7 @@ Inception networks currently have four versions, namely GoogleNet (also known as
 </p> 
 
 <p align="center"> 
-  <img src="images/Inception-V3.png" alt="Inception-V3">
+  <img src="images/Inception-V3.png" alt="Inception-V3" height="35%" width="35%">
 </p>
 
 <!-- InceptionResNet-V2 -->
@@ -234,7 +234,7 @@ InceptionResNet is a convolutional neural architecture developed based on a comb
 </p> 
 
 <p align="center"> 
-  <img src="images/InceptionResNet-V2.png" alt="InceptionResNet-V2">
+  <img src="images/InceptionResNet-V2.png" alt="InceptionResNet-V2 height="40%" width="40%">
 </p>
 
 <!-- LICENSE -->
