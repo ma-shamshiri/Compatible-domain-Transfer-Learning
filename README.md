@@ -41,7 +41,7 @@ The study introduces a new transfer learning approach for classifying breast can
 </p>
 
 <p align="center"> 
-  <img src="images/finetuning.png" alt="finetuning" width="800 rem" height="800 rem">
+  <img src="images/finetuning.png" alt="finetuning" width="55%" height="55%">
 </p>
 
 <!-- FOLDER STRUCTURE -->
